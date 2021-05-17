@@ -1,0 +1,17 @@
+{
+"companyName": "TheGameIsFixed",
+"productName": "NIIIRHI",
+"productVersion": "0.1",
+"dataUrl": "buildNIIIRHIexercise.data.unityweb",
+"asmCodeUrl": "buildNIIIRHIexercise.asm.code.unityweb",
+"asmMemoryUrl": "buildNIIIRHIexercise.asm.memory.unityweb",
+"asmFrameworkUrl": "buildNIIIRHIexercise.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
